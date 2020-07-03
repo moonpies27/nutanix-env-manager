@@ -1,4 +1,5 @@
-# demo-browser
+# What is this?
+This is a personal project to help me do my job while improving my Vue.js skills. It's used as a quick way to manage entities within an existing Nutanix environment and is customized for my personal use. It contains no proprietary information about Nutanix software or products!
 
 ## Project setup
 ```
@@ -15,15 +16,7 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
-
 ### Lints and fixes files
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
